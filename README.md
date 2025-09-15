@@ -45,3 +45,14 @@ File Transfer Go 是一个基于 Go 和 React 开发的文件传输服务，使�
 port: 8080
 node_env: "production"
 log_level: "info"
+
+
+## ☕ 赞助支持
+
+如果您觉得我花费大量时间维护这个库对您有帮助，欢迎请我喝杯奶茶，您的支持将是我持续改进的动力！
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://gitee.com/wuwzn/ha-addons/raw/master/0wwzn/Ali_Pay.jpg" height="350px" />
+  <img src="https://gitee.com/wuwzn/ha-addons/raw/master/0wwzn/WeChat_Pay.jpg" height="350px" />
+</div> 💖
+感谢您的支持与鼓励！
